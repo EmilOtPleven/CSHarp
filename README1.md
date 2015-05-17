@@ -1,1 +1,0 @@
-Нищо не хващам от тоя гит хъб. Ама ще се науча!https://github.com/EmilOtPleven/CSHarp
